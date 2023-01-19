@@ -1,0 +1,74 @@
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.Properties.Resources.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.GenerateResource.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.exe.config
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.QGameControlPanelForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.QGameDesignForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.exe.config
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.QGameControlPanelForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.Properties.Resources.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.QGameDesignForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.GenerateResource.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.exe.config
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\bin\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.AssemblyReference.cache
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.QGameControlPanelForm.resources
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.Properties.Resources.resources
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.QGameDesignForm.resources
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.GenerateResource.cache
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiQGame.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Downloads\LStanzianiQGame\LStanzianiAssignment2\LStanzianiAssignment2\LStanzianiAssignment2\obj\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiAssignment2.exe.config
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGameControlPanelForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiAssignment2.Properties.Resources.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGameDesignForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.GenerateResource.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiAssignment2.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiAssignment2\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiAssignment2.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGameControlPanelForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.Properties.Resources.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGameDesignForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.GenerateResource.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiQGame.exe.config
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiQGame.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiQGame.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\Assignment 3\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGamePlayForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiQGame.exe.config
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiQGame.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\bin\Debug\LStanzianiQGame.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGameControlPanelForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.Properties.Resources.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGameDesignForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.QGamePlayForm.resources
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.GenerateResource.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2370 (Game Programming)\Assignments\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\LStanzianiQGame\obj\Debug\LStanzianiQGame.pdb
