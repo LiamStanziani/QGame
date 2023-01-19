@@ -1,2 +1,4 @@
 # QGame
  This game was made by me for the 3rd assignment of the course PROG2370
+ 
+ In this game you can design a level, by clicking on the design button when the project loads, you will then need to generate the rows and columns by adding the amount you would like to add inside of the text boxes, then you will need to add whatever items you would like to use for your level on the left side. At the top you will be able to save and close the design tab. You can also play your levels by clicking on the play button on the first screen, which can be played by loading the level at the top of the screen. This is played by using the controls at the bottom right of the screen, which you need to click on a box to enable. The goal of the game is to get the all of the boxes to the correct doors (green box with green door and red box with red door) I have added 2 levels that you can choose to try which have the file extension of .QGAME
